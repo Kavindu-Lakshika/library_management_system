@@ -1,3 +1,12 @@
 ## Login
 
-![Login](https://drive.google.com/file/d/1_qyCcirTGoAHQ-V65sftrkybmCTZrDLy/view?usp=drive_link)
+![Loging](https://drive.google.com/uc?id=1_qyCcirTGoAHQ-V65sftrkybmCTZrDLy)
+
+## SignUp
+
+![Uploading 02 Sign Up.png…]()
+
+
+
+
+
