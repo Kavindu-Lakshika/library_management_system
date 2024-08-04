@@ -20,11 +20,9 @@
 ## Edit Book
 ![image](https://github.com/user-attachments/assets/879660ac-2b8b-40d8-9190-7ae213800aa4)
 
-## Users
-![image](https://github.com/user-attachments/assets/ebcf8492-5a5c-4ffd-998c-7554bf328e88)
-
 ## Fine Calculator
-![image](https://github.com/user-attachments/assets/3bdef9b8-381c-48b1-874f-f9cfa6709c08)
+![image](https://github.com/user-attachments/assets/6b4269d9-4d4a-41ab-8672-97991f7136cd)
+
 
 
 
